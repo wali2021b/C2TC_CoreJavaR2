@@ -1,4 +1,5 @@
 package practiceTask;
+import java.util.*;
 
 public class addition {
 public static int add(int a, int b)
