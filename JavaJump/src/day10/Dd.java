@@ -5,7 +5,7 @@ package day10;
 public class Dd {
 public static void main(String[] args) {
 	System.out.println("hello World..");
-Scanner sc = new Scanner(System.in)	
+//Scanner sc = new Scanner(System.in)	
 }
 }
-import java.util.Scanner;
+//import java.util.Scanner;
