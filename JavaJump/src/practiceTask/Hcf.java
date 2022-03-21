@@ -2,7 +2,7 @@ package practiceTask;
 import java.util.*;
 public class Hcf {
 
-	public static void main(String[] args) {
+	public static void main(String[] args)  {
 		// TODO Auto-generated method stub
 int a,b,count=0;
 Scanner sc=new Scanner(System.in);
