@@ -1,6 +1,6 @@
 package practiceTask;
-import java.util.*;
 public class Hcf {
+	import java.util.*;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
