@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 public class InputBufferReader {
 	public static int fact(int a)
 	{
-		int f=1;
+//		int f=1;
 		if(a==1 || a==0)
 			return 1;
 		return a*fact(a-1);
@@ -20,6 +20,7 @@ public class InputBufferReader {
 	BufferedReader br=new BufferedReader(is);
 	int a=Integer.parseInt(br.readLine());
 	System.out.println("factorail of  :" + a + " is : "+fact(a));
-	}
+	
 
+	}
 }
